@@ -1,0 +1,1 @@
+This exercises are taken from https://nostarch.com/impracticalpythonprojects
